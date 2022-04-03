@@ -1,0 +1,1 @@
+This Project aim to demostrate transfer of Green Token, an ERC20 based smart token from Admin account to any Rewards App holder.
