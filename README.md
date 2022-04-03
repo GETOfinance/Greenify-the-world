@@ -3,7 +3,7 @@
 A decentralised trustless celo blockchain waste segregation and management reward dApp.
 
 
-Deployement on Alfajores testnet (https://alfajores-blockscout.celo-testnet.org)
+Deployement on Alfajores testnet of Green Token, "GTK" (https://alfajores-blockscout.celo-testnet.org)
 
    > transaction hash:    0x8f2028ca9b2677058dea1b86abf58d3ed6d9ff4c371c88ed1040308c7975704d
 
