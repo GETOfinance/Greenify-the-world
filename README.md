@@ -3,6 +3,14 @@
 A decentralised trustless celo blockchain waste segregation and management reward dApp.
 
 
+Deployement on Alfajores testnet (https://alfajores-blockscout.celo-testnet.org)
+
+   > transaction hash:    0x8f2028ca9b2677058dea1b86abf58d3ed6d9ff4c371c88ed1040308c7975704d
+
+   > contract address:    0xB271cF0A5dAd01CF38e88737ab2Afd63b7f857dE
+
+
+
 # svelte app
 
 This project uses the template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
